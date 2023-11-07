@@ -9,7 +9,7 @@ Seeking a full-time entry-level position in Data Design/Development to leverage 
 
 ### Internship: Data Analyst
 - **Company:** Analogica Software Development Pvt Ltd
-- **Duration:** May 2023 – Present
+- **Duration:** Nov 2023 – Present
   - Assisting in data analysis tasks, including data cleaning and data visualization.
   - Collaborating with the team to gather and analyze data from various sources to provide valuable insights.
   - Contributing to the development of data-driven solutions to support business objectives.
